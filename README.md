@@ -1,4 +1,4 @@
-# Text2Emodji
+# Text2Emoji
 
 ## Authors
 ### <mark>[Bohdan Ozarko](https://github.com/Compi-Craft)</mark> <br>
